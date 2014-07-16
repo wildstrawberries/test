@@ -1,0 +1,8 @@
+this
+is
+just
+a
+test
+GIT
+file
+version1.0
